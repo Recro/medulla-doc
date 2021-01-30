@@ -1,0 +1,267 @@
+a {
+    color: #58a6ff;
+    background-color: #0d1117;
+}
+
+hr, .rule {
+    border-bottom: 1px solid #21262d;
+}
+
+.header {
+    background-color: #161b22;
+}
+
+.header input {
+    background-color: #0d1117;
+    border-radius: 6px;
+    border: 1px solid #21262d;
+    font-size: 14px;
+}
+
+.header input::placeholder {
+    color: rgba(255,255,255,.75);
+}
+
+.header input:focus::placeholder {
+    color: #8b949e;
+}
+
+.title {
+    color: #f0f6fc;
+}
+
+.title a {
+    color: #f0f6fc;
+    background-color: #161b22;
+}
+
+.title a:hover {
+    background: #161b22;
+    color: rgba(240,246,252,0.7);
+}
+
+.sidebar {
+    background: #0d1117;
+}
+
+.sidebar-wrap {
+    border-right: 1px solid #30363d;
+}
+
+.form-control {
+    box-shadow: none;
+}
+
+.form-control:focus {
+    border-color: #388bfd;
+    box-shadow: 0 0 0 3px #0c2d6b;
+}
+
+.search .form-control:focus {
+    box-shadow: none;
+}
+
+.addons-wrap {
+    background-color: #0d1117;
+    border-right: 1px solid #30363d;
+}
+
+.addons-wrap .status:active {
+    background: #161b22;
+}
+
+.addons-wrap .status {
+    background-color: #161b22;
+}
+
+.addons-wrap .status .branch .name {
+    color: #56d364;
+}
+
+.addons-wrap .status .branch .fa {
+    color: #f0f6fc;
+}
+
+.addons-wrap .addons {
+    color: #c9d1d9;
+}
+
+.addons-wrap .addons dd a {
+    color: #f0f6fc;
+}
+
+.container {
+    background: #0d1117;
+    color: #c9d1d9;
+}
+
+.content-wrap {
+    background: #0d1117;
+}
+
+.markdown-body h1 {
+    border-bottom: 1px solid #21262d;
+}
+
+.markdown-body h2 {
+    border-bottom: 1px solid #21262d;
+}
+
+.markdown-body h1 .octicon-link, .markdown-body h2 .octicon-link {
+    color: #f0f6fc !important;
+}
+
+.markdown-body hr {
+    background-color: #30363d;
+}
+
+.markdown-body .highlight {
+    background-color: #161b22;
+    border-radius: 6px;
+}
+
+.markdown-body .highlight pre, .markdown-body pre {
+    border: none;
+    background-color: #161b22;
+}
+
+.markdown-body div.highlighter-rouge:after {
+    content: ""
+}
+
+.highlight .na {
+    color: #7ee787;
+}
+
+.highlight .pi {
+    color: #f0f6fc;
+}
+
+.highlight .s, .highlight .s2, .highlight .se, .highlight .nv {
+    color: #a5d6ff;
+}
+
+.breadcrumb-item[aria-current]:not([aria-current=false]) {
+    color: #c9d1d9;
+}
+
+.breadcrumb-item::after {
+    color: #8b949e;
+}
+
+.fa-edit {
+    color: #8b949e;
+}
+
+.fa-edit:hover {
+    color: #58a6ff;
+}
+
+.generator {
+    display: none;
+}
+
+.text-gray {
+    color: #8b949e !important;
+}
+
+.btn {
+    color: #c9d1d9;
+    background-color: #21262d;
+    border-color: #30363d;
+    box-shadow: 0 0 rgb(0 0 0 / 0%), inset 0 0 rgb(0 0 0 / 0%);
+    transition: .2s cubic-bezier(0.3, 0, 0.5, 1);
+    transition-property: color,background-color,border-color;
+}
+
+.btn:hover {
+    background-color: #30363d;
+    border-color: #8b949e;
+    transition-duration: .1s;
+}
+
+.btn:active {
+    background-color: #161b22;
+    box-shadow: 0 0 rgb(0 0 0 / 0%);
+    transition: none;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #8b949e;
+}
+
+.toctree a {
+    color: #f0f6fc;
+}
+
+.toctree>ul .toc.current a {
+    color: #f0f6fc;
+}
+
+.toctree>ul>.toc:not(.current)>a:hover {
+    background: #1f6feb;
+}
+
+.toctree>ul .toc.current a.current {
+    background: #1f6feb;
+    border-top: none;
+    border-bottom: none;
+}
+
+.toctree>ul .toc.current a:hover {
+    background: #1f6feb;
+}
+
+.toc.level-1.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-2.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-3.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-4.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-5.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-6.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-6.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-8.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-9.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-10.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-11.current>a {
+    background: #1f6feb;
+}
+
+.toc.level-12.current>a {
+    background: #1f6feb;
+}
+
+.form-control {
+    color: #f0f6fc;
+}

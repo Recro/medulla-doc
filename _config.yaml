@@ -1,0 +1,15 @@
+title: Medulla
+description: A Kubernetes native low code platform
+
+lang: en
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-github-metadata

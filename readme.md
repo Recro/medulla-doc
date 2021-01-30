@@ -1,2 +1,2 @@
-# medulla-doc
+# Medulla
 Documentation regarding the Medulla project
