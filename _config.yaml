@@ -1,10 +1,13 @@
 title: Medulla
 description: A Kubernetes native low code platform
-author: Medulla Authors
+author: Medulla Contributors
 
 lang: en
 
 remote_theme: rundocs/jekyll-rtd-theme
+
+copyright:
+  since: 2021
 
 readme_index:
   with_frontmatter: true
