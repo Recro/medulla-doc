@@ -276,6 +276,11 @@ hr, .rule {
     display: inline-block !important;
 }
 
+.fa-copyright:before {
+    font-size: 16px;
+    content: "Copyright ";
+}
+
 .copyright a:first-of-type {
     font-size: 0px;
     display: block;
