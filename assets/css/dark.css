@@ -265,3 +265,13 @@ hr, .rule {
 .form-control {
     color: #f0f6fc;
 }
+
+.border-top {
+    border-top: 1px #21262d solid !important;
+}
+
+.bg-yellow {
+    background-color: rgba(187,128,9,0.4) !important;
+    border-radius: 6px !important;
+    display: inline-block !important;
+}

@@ -269,3 +269,13 @@ hr, .rule {
 .form-control {
     color: #24292e;
 }
+
+.border-top {
+    border-top: 1px #eaecef solid !important;
+}
+
+.bg-yellow {
+    background-color: #fffbdd !important;
+    border-radius: 6px !important;
+    display: inline-block !important;
+}
