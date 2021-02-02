@@ -275,3 +275,12 @@ hr, .rule {
     border-radius: 6px !important;
     display: inline-block !important;
 }
+
+.copyright a:first-of-type {
+    font-size: 0px;
+    display: block;
+}
+
+.copyright span:after {
+    content: " Medulla Contributors";
+}
