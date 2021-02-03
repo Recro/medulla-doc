@@ -1,6 +1,6 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# What is Medulla?
+# What is Low-Code?
 **Stub Page, Contributors Needed**
