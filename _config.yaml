@@ -12,6 +12,9 @@ copyright:
 readme_index:
   with_frontmatter: true
 
+exclude:
+  - templates/
+
 plugins:
   - jemoji
   - jekyll-avatar
