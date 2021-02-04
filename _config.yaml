@@ -12,8 +12,6 @@ copyright:
 readme_index:
   with_frontmatter: true
 
-show_sorted: false
-
 exclude:
   - templates/
 
