@@ -1,6 +1,5 @@
 ---
 sort: 2
-show_sorted: false
 ---
 
 # What is Low-Code?
