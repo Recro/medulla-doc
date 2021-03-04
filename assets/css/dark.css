@@ -129,6 +129,18 @@ hr, .rule {
     content: ""
 }
 
+.highlight .k {
+    color: #ff7b72;
+}
+
+.highlight .n {
+    color: #ffa657;
+}
+
+.highlight .p {
+    color: #c9d1d9;
+}
+
 .highlight .na {
     color: #7ee787;
 }
